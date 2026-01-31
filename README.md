@@ -23,5 +23,5 @@ I am trying to predict accurate PM2.5 values to judge the quality of air in the 
 
 ## How to Run
 ```bash
-pip install -r requirements.txt
-python train.py
+#pip install -r requirements.txt
+jupyter notebook airqualityforecasting.ipynb
